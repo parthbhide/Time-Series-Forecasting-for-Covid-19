@@ -7,7 +7,7 @@ Forecasting Covid-19 Cases in India
   The approach used in this project can be exteded to statewise data to get statewise predictions.
       
 ### Methodology
-  1. Gathering data from API ( 'http://api.covid19india.org/states_daily_csv/confirmed.csv' ) and preprocessing.
+  1. Gathering data from API ( 'https://api.covid19india.org/csv/latest/state_wise_daily.csv' ) and preprocessing.
   2. Analysing if current time series is stationary or not using **Augmented Dickey-Fuller unit root test.**
   3. Converting the series into stationary using **differencing** method.
   4. Analysing ACF and PACF and tuinning values of **p,d,q.**
