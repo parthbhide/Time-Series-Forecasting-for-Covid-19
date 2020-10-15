@@ -1,4 +1,4 @@
-# Time-Series-Forecasting-for-Covid-19
+# Time-Series-Forecasting-For-Covid-19
 Forecasting Covid-19 Cases in India
 
 ### Aim
